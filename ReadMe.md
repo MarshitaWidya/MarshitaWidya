@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marrshitawidya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marshita-widya-5129a93a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marshitawidya.a@gmail.com) [![View My CV](https://img.shields.io/badge/View%20My%20CV-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white)](./CV_MarshitaWidya.pdf)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marrshitawidya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marshita-widya-5129a93a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marshitawidya.a@gmail.com) [![CV](https://img.shields.io/badge/CV-%237C3AED.svg?logo=readthedocs&logoColor=white)](./CV_MarshitaWidya.pdf)
 
 # 💻 Tech Stack:
 
